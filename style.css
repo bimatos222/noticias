@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 1.74rem 1rem;
+    background-color: var(--almost-white);
+
+}
+
+:root {
+    --almost-white: #FFFDFA;
+    --Dark-Space-Blue: #00001A;
+    --Gunmetal: #5E607A;
+    --Light-Vermillion:#F15D51;
+    --Yellow: #E9AA52;
+    --Silver: #C5C6CE;
+    
+}
+
+.header-mobile {
+
+}
